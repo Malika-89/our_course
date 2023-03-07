@@ -1,1 +1,1 @@
-# our_course
+# our_project
